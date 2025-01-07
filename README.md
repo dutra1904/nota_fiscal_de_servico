@@ -52,7 +52,7 @@ Este projeto é uma aplicação web simples que permite o cálculo de impostos e
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/<seu-usuario>/nfs-e-calculator.git
+   git clone https://github.com/dutra1904/nota_fiscal_de_servico.git
    ```
 
 2. **Abra o arquivo `index.html` no navegador:**
@@ -62,7 +62,7 @@ Este projeto é uma aplicação web simples que permite o cálculo de impostos e
 
 ## **Publicação**
 
-A aplicação foi publicada utilizando o **GitHub Pages**. Para mais informações sobre como configurar, consulte a [documentação do GitHub Pages](https://dutra1904.github.io/nota_fiscal_de_servico/).
+A aplicação foi publicada utilizando o **GitHub Pages**. Para mais informações sobre como configurar, consulte a [documentação do GitHub Pages](https://docs.github.com/en/pages).
 
 ---
 
@@ -81,4 +81,4 @@ Este projeto é licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICE
 ## **Links Importantes**
 
 - **Página funcional:** [NFS-e Calculator](https://dutra1904.github.io/nota_fiscal_de_servico/)
-- **Código-fonte:** [Repositório no GitHub](https://github.com/<seu-usuario>/nfs-e-calculator)
+- **Código-fonte:** [Repositório no GitHub](https://github.com/dutra1904/nota_fiscal_de_servico.git)
