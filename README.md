@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação web simples que permite o cálculo de impostos e a geração de uma Nota Fiscal de Serviço Eletrônica (NFS-e). Desenvolvido em HTML, CSS e JavaScript, o sistema é funcional para testes e pode ser facilmente expandido para atender a outros requisitos.
 
+Este projeto foi criado como parte do processo seletivo para estágio na Saguitech.
+
 ---
 
 ## **Funcionalidades**
