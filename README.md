@@ -29,7 +29,7 @@ Este projeto foi criado como parte do processo seletivo para estágio na Saguite
 ## **Como Usar**
 
 1. **Acesse a aplicação:**
-   - Link para a página funcional: [NFS-e Calculator](https://<seu-usuario>.github.io/nfs-e-calculator/).
+   - Link para a página funcional: [NFS-e Calculator](https://dutra1904.github.io/nota_fiscal_de_servico/).
 
 2. **Insira os dados necessários:**
    - Preencha os campos de valor da venda, itens vendidos e porcentagens de impostos.
